@@ -1,0 +1,1 @@
+ Створити віртуальне оточення (ім'я оточення - прізвище студента) Create a virtual environment (the name of the environment is the student's last name).
